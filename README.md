@@ -4,7 +4,7 @@
 The one where Micron R1 & Salad Fork had a baby...
 </p>
 
-![Rendering of a StealthFork](https://github.com/Jadecky/StealthFork/blob/main/Images/StealthFork.png)
+![Rendering of a StealthFork](./Images/StealthFork.png)
 
 ## About  
 
