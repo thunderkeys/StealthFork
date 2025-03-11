@@ -22,7 +22,7 @@ This repo is a **work in progress**, and I'll be updating it as things evolve. T
 
 ## Required Parts from Micron R1  
 
-Some parts are not included in this repo and need to be pulled directly from the **Micron R1 Repo**:  
+Some parts are not included in this repo and need to be pulled directly from the **Micron R1 Repo** to convert your current Salad Fork.
 
 | **Category** | **Micron R1 Repo Link** | **Required Parts** |
 |-------------|-----------------|-----------------|
@@ -32,6 +32,19 @@ Some parts are not included in this repo and need to be pulled directly from the
 | **Front Skirt Display Mounts** | [Skirt Displays](https://github.com/PrintersForAnts/Micron/tree/main/R1_Beta/STLs/Skirts/Displays) | All except: Bezels |
 
 All STLs should be **correctly oriented** for printing.  
+
+---
+## BOM
+
+A full BOM will be provided, but for now, the large differences are:
+
+|**Item**|**Qty**|**Link**
+|------|------|------|
+|Feet|x4|[Ali Express](https://s.click.aliexpress.com/e/_EJ0t67E)
+|Waveshare 4.3 Display|x1|[Ali Express](https://s.click.aliexpress.com/e/_EGOmTWc)
+|M5x20 BHCS|x4|[Ali Express](https://s.click.aliexpress.com/e/_ExQz6rS)
+
+
 
 ---
 
