@@ -14,13 +14,13 @@ This repo is a **work in progress**, and I'll be updating it as things evolve. T
 
 ## Current Status  
 
-- ✅ **STLs Uploaded** – All required STLs for a **180mm build** are included.  
-- 🔜 **CAD Files Coming Soon** – Once the files are cleaned up, they'll be added to the repo.  
+- ✅ **STLs Uploaded** – All required STLs for a **180mm, or 160mm build** are included.  
+- 🔜 **CAD Files Coming Soon** – Once the files are cleaned up, they'll be added to the repo. (Skirt CAD files are available)
 - ⚠ **Beta Release** – While all parts have been printed successfully, a full machine assembly is still pending. Expect minor refinements.  
 
 ---
 
-## Required Parts from Micron R1  
+## Required Parts from Micron R1
 
 Some parts are not included in this repo and need to be pulled directly from the **Micron R1 Repo** to convert your current Salad Fork.
 
@@ -54,7 +54,18 @@ If you're building a Stealth Fork, I'd love to hear your thoughts! Join the disc
 
 ---
 
-## Version History  
+## Version History
 
-### 10-Mar-25 - v0.1  
+### 15-Mar-25
+- Uploaded 160 Skirt STLs
+- Uploaded `160_Skirts_v16.step`
+- Uploaded `180_Skirts_v24.srep`
+- Added missing `Rear_Centre_Skirt_Keystone_x1.stl` (180mm)
+
+### 10-Mar-25
 - Initial release of beta STLs  
+
+## Acknowledgements
+
+- HartK for the awesome Micron+
+- Yeri for the equally awesome Salad Fork
