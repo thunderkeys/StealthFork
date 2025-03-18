@@ -56,6 +56,9 @@ If you're building a Stealth Fork, I'd love to hear your thoughts! Join the disc
 
 ## Version History
 
+### 18-Mar-25
+- Uploaded bottom panel STLs & DXFs for 180 & 160 
+
 ### 15-Mar-25
 - Uploaded 160 Skirt STLs
 - Uploaded `160_Skirts_v16.step`
