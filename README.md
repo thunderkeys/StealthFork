@@ -97,9 +97,9 @@ Join the discussion, suggest improvements, or share feedback in the 'KyleGB' cha
 ---
 
 ## Raising Issues
-If you encounter any issues or have suggestions for improvements, please report them via the Issues section on the Git repository. 
+If you encounter any issues, please report them via the Issues section on the Git repository. 
 
-Be as detailed as possible,include steps to reproduce, and relevant images or screenshots. 
+Be as detailed as possible, include steps to reproduce, and relevant images or screenshots. 
 
 Your feedback helps improve the Stealth Fork for everyone!
 
