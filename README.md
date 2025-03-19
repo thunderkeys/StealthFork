@@ -56,6 +56,9 @@ If you're building a Stealth Fork, I'd love to hear your thoughts! Join the disc
 
 ## Version History
 
+### 19-\mar-23
+- Fixed bottom panel DXFs. (Thanks TurtleCrawler)
+
 ### 18-Mar-25
 - Uploaded bottom panel STLs & DXFs for 180 & 160 
 
