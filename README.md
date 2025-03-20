@@ -92,7 +92,7 @@ A full BOM will be provided, but for now, the large differences are:
 
 If you're building a Stealth Fork, I'd love to hear your thoughts! 
 
-Join the discussion, suggest improvements, or share feedback in the 'KyleGB' channel on the Doomcube Discord.  
+Join the discussion, suggest improvements, or share feedback in the 'stealth_fork' channel on the Doomcube Discord.  
 
 ---
 
