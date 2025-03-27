@@ -25,7 +25,7 @@ The one where Micron R1 & Salad Fork had a baby...
 
 ## About  
 
-Stealth Fork is an experimental design that blends the awesome aesthetic and compact form factor of the [**Micron+ R1**](https://github.com/PrintersForAnts/Micron/tree/main/R1_Beta) with the fixed gantry of the [**Salad Fork**.](https://github.com/PrintersForAnts/Salad_Fork) If you've ever wanted a machine that captures the best aspects of both, this is it.  
+Stealth Fork is an experimental design that blends the awesome aesthetic and compact form factor of the [**Micron+ R1**](https://github.com/PrintersForAnts/Micron/tree/main/R1_Beta) with the fixed gantry of the [**Salad Fork**.](https://github.com/PrintersForAnts/Salad_Fork) If you’ve ever wanted a machine that blends the best of both, this is it.  
 
 ### Additional Features Ported from Micron:
 - Bottom panel as stock
@@ -37,7 +37,7 @@ Stealth Fork is an experimental design that blends the awesome aesthetic and com
 - 2x Keystone mounts in rear skirt
 - Stealthy aesthetics
 
-> **Note:** This repository is a work in progress. I'll be updating it as things evolve. The goal is to make the build process seamless while maintaining high-quality standards from both parent designs.  
+> **Note:** This repository is a work in progress. I'll be updating it as things evolve. The goal is a seamless build experience, without compromising the high standards of either parent design.  
 
 ---
 
@@ -80,11 +80,15 @@ Some parts are not included in this repo and need to be pulled directly from the
 
 A full BOM will be provided, but for now, the large differences are:
 
-|**Item**|**Qty**|**Link**
-|------|------|------|
-|Feet|x4|[Ali Express](https://s.click.aliexpress.com/e/_EJ0t67E)
-|Waveshare 4.3 Display|x1|[Ali Express](https://s.click.aliexpress.com/e/_EGOmTWc)
-|M5x20 BHCS|x4|[Ali Express](https://s.click.aliexpress.com/e/_ExQz6rS)
+|**Item**|**Qty**|**Link**|**Notes**|
+|------|------|------|---|
+|Feet|x4|[Ali Express](https://s.click.aliexpress.com/e/_EJ0t67E)|
+|Waveshare 4.3 Display|x1|[Ali Express](https://s.click.aliexpress.com/e/_EGOmTWc)|
+|M5x20 BHCS|x4|[Ali Express](https://s.click.aliexpress.com/e/_ExQz6rS)|
+|M3x8 BCHS|x40~|[Ali Express](https://s.click.aliexpress.com/e/_EyFT87W)|To replace M3x6 BHCS for skirt mounting, and replace M3x10 BHCS on gantry mounting.|
+|M3x12 BHCS|x25~|[Ali Express](https://s.click.aliexpress.com/e/_Ew2GXKg)|For mounting bottom panel to skirts.|
+|M3x25 BHCS|x3|[Ali Express](https://s.click.aliexpress.com/e/_ExoTSVa)|To mount skirt corners.|
+|M3x20 BHCS|x1|[Ali Express](https://s.click.aliexpress.com/e/_Eu5EjP6)|To mount power inlet corner.|
 
 ---
 
@@ -97,9 +101,10 @@ Join the discussion, suggest improvements, or share feedback in the 'stealth_for
 ---
 
 ## Raising Issues
+
 If you encounter any issues, please report them via the Issues section on the Git repository. 
 
-Be as detailed as possible, include steps to reproduce, and relevant images or screenshots. 
+Be as detailed as possible — include steps to reproduce and any relevant screenshots. 
 
 Your feedback helps improve the Stealth Fork for everyone!
 
@@ -109,6 +114,7 @@ Your feedback helps improve the Stealth Fork for everyone!
 
 | Date         | Changes                                                    |
 |--------------|------------------------------------------------------------|
+| 27-Mar-2025  | Added STLs & CAD to convert Salad Fork rear panel to StealthFork Bowden entry. |
 | 19-Mar-2025  | Fixed bottom panel DXFs. *(Thanks TurtleCrawler)*          |
 | 18-Mar-2025  | Uploaded bottom panel STLs & DXFs for 180mm & 160mm builds |
 | 15-Mar-2025  | Uploaded 160mm skirt STLs<br>Uploaded 160_Skirts_v16.step<br>Uploaded 180_Skirts_v24.step<br>Added missing Rear_Centre_Skirt_Keystone_x1.stl (180mm) |
@@ -118,7 +124,7 @@ Your feedback helps improve the Stealth Fork for everyone!
 
 ## Acknowledgements
 
-- HartK for the awesome Micron
+- HartK for the awesome Micron  
 - Yeri for the equally awesome Salad Fork
 
 ---
