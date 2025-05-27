@@ -25,7 +25,7 @@ The one where Micron R1 & Salad Fork had a baby...
 
 ## About  
 
-Stealth Fork is an experimental design that blends the awesome aesthetic and compact form factor of the [**Micron+ R1**](https://github.com/PrintersForAnts/Micron/tree/main/R1_Beta) with the fixed gantry of the [**Salad Fork**.](https://github.com/PrintersForAnts/Salad_Fork) If you’ve ever wanted a machine that blends the best of both, this is it.  
+Stealth Fork is an experimental design that blends the awesome aesthetic and compact form factor of the [**Micron+ R1**](https://github.com/PrintersForAnts/Micron/tree/main) with the fixed gantry of the [**Salad Fork**.](https://github.com/PrintersForAnts/Salad_Fork) If you’ve ever wanted a machine that blends the best of both, this is it.  
 
 ### Additional Features Ported from Micron:
 - Bottom panel as stock
@@ -55,10 +55,10 @@ Some parts are not included in this repo and need to be pulled directly from the
 
 | **Category** | **Micron R1 Repo Link** | **Required Parts** |
 |-------------|-----------------|-----------------|
-| **Panel Clips & Misc** | [Panels](https://github.com/PrintersForAnts/Micron/tree/main/R1_Beta/STLs/Panels) | All except: Bowden Entry Accent Front Cover, Top Hinge Leaf |
-| **X Axis** | [X Axis](https://github.com/PrintersForAnts/Micron/tree/main/R1_Beta/STLs/Gantry/X_Axis) | All |
-| **AB Double Shear Mounts** | [AB Drives](https://github.com/PrintersForAnts/Micron/tree/main/R1_Beta/STLs/Gantry/AB_Drives/double_shear_mounts) | All |
-| **Front Skirt Display Mounts** | [Skirt Displays](https://github.com/PrintersForAnts/Micron/tree/main/R1_Beta/STLs/Skirts/Displays) | All except: Bezels |
+| **Panel Clips & Misc** | [Panels](https://github.com/PrintersForAnts/Micron/tree/main/STLs/Panels) | All except: Bowden Entry Accent Front Cover, Top Hinge Leaf |
+| **X Axis** | [X Axis](https://github.com/PrintersForAnts/Micron/tree/main/STLs/Gantry/X_Axis) | All |
+| **AB Double Shear Mounts** | [AB Drives](https://github.com/PrintersForAnts/Micron/tree/main/STLs/Gantry/AB_Drives/double_shear_mounts) | All |
+| **Front Skirt Display Mounts** | [Skirt Displays](https://github.com/PrintersForAnts/Micron/tree/main/STLs/Skirts/Displays) | All except: Bezels |
 
 ---
 
