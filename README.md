@@ -134,4 +134,10 @@ Your feedback helps improve the Stealth Fork for everyone!
 
 ## Build Showcase
 
-**Coming Soon**
+### **TurtleCrawler**
+
+![Turtlecrawler_StF](./Images//Builds/TurtleCrawler_StF.jpg)
+
+### **Thunderkeys**
+
+![Thunderkeys_StF](./Images/Builds/Thunderkeys_StF.jpg)
